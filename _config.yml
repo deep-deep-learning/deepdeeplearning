@@ -3,6 +3,7 @@ title:
 email:
 author:
 description:
-url: "deepdeeplearning"
+url:
+baseurl: "/deepdeeplearning"
 
 # Build settings
