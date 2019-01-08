@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Libre+Barcode+39+Extended+Text|Monoton|Noto+Sans+KR:300,400,500,700|Noto+Serif+KR:300,400,500,700|Press+Start+2P|Sedgwick+Ave|Special+Elite&subset=korean');
+
+@font-face {
+    font-family: "Hermes";
+    src: url("/assets/fonts/hermes.woff2");
+}
+
+$ff-ss: 'Noto Sans KR', sans-serif;
+$ff-s: 'Noto Serif KR', serif;
+$ff-barcode: 'Libre Barcode 39 Extended Text', Courier;
+$ff-pixel: 'Press Start 2P', Garamond;
+$ff-hiphop: 'Sedgwick Ave', Impact;
+$ff-future: 'Monoton', Helvetica;
+$ff-typewriter: 'Special Elite', "Courier New";
+$ff-luxury: 'Hermes', "Times New Roman";
